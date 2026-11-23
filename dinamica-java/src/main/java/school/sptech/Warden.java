@@ -1,4 +1,4 @@
 package school.sptech;
 
-public class Warden {
+public class Warden extends Modelo implements Interface {
 }

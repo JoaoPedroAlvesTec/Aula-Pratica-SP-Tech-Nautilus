@@ -1,4 +1,5 @@
 package school.sptech;
 
-public class Overclock {
+public class Overclock extends Modelo implements Interface {
+
 }

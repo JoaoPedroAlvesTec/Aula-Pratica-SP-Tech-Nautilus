@@ -1,4 +1,6 @@
 package school.sptech;
 
-public class Interface {
+public interface Interface {
+    // void executarTurno();
 }
+
